@@ -77,7 +77,7 @@
                     <!-- Grid column -->
                     <div class="col-lg-12" style="height: auto;">
                         <h5 align="center" class="mb-4"><strong>Pendidikan & Organisasi</strong></h5>
-                        <p align="justify">Saya memulai pendidikan pada bangku sekolah dasar, yaitu di <strong>SDN Kandangan 2</strong>, kemudian saya menempuh pendidikan menengah pertama di </strong>SMPN 2 Pare</strong>kemudian saya menempuh pendidikan menengah atas di <strong>SMAN 2 Pare.</strong> Saya menempuh pendidikan perkuliahan di Universitas Brawijaya di jurusan Teknik Informatika dan lulus pada bulan Juni tahun 2020. Selama di bangku kuliah saya juga mengikuti kegiatan keorganisasian, jabatan yang pernah saya terima antara lain : <strong>Anggota</strong> Logicio Choir BIOS - FILKOM - UB, <strong>Staff</strong> Divisi Teater BIOS - FILKOM - UB, <strong>Ketua Divisi</strong> Teater BIOS - FILKOM - UB.</p>
+                        <p align="justify">Saya memulai pendidikan pada bangku sekolah dasar, yaitu di <strong>SDN Kandangan 2</strong>, kemudian saya menempuh pendidikan menengah pertama di <strong>SMPN 2 Pare</strong> kemudian saya menempuh pendidikan menengah atas di <strong>SMAN 2 Pare.</strong> Saya menempuh pendidikan perkuliahan di <strong>Universitas Brawijaya</strong> di jurusan <strong>Teknik Informatika</strong> dan lulus pada bulan Juni tahun 2020. Selama di bangku kuliah saya juga mengikuti kegiatan keorganisasian, jabatan yang pernah saya terima antara lain : <strong>Anggota</strong> Logicio Choir BIOS - FILKOM - UB, <strong>Staff</strong> Divisi Teater BIOS - FILKOM - UB, <strong>Ketua Divisi</strong> Teater BIOS - FILKOM - UB.</p>
                     </div>
                 </div>
                 <div class="row">                    
@@ -152,25 +152,44 @@
             <div class="container">
 
                 <!-- Section heading -->
-                <h2 class="h1-responsive font-weight-bold mb-5">Proyek Saya</h2>
+                <h2 class="h1-responsive font-weight-bold mb-5">Portofolio</h2>
                 <!-- Grid row -->
                 <div class="row text-center">
 
                     <!-- Grid column -->
                     <div class="col-lg-6 col-md-12 mb-lg-0 mb-4">
                         <!--Featured image-->
-                        <div class="view overlay rounded z-depth-1">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/images/58.jpg" class="img-fluid" alt="Sample project image">
-                            <a>
-                                <div class="mask rgba-white-slight"></div>
-                            </a>
+                        <div class="view overlay rounded z-depth-1" style="height: 375px; overflow-y: scroll;">
+                            <!-- <img src="https://mdbootstrap.com/img/Photos/Others/images/58.jpg" class="img-fluid" alt="Sample project image"> -->
+                            <div class="row mx-1">
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/1.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/2.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                            </div>
+                            <div class="row mx-1">
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/3.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/4.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/5.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="img/portofolio/manpro/6.png" class="img-fluid" alt="Sample project image">
+                              </div>
+                            </div>
                         </div>
                         <!--Excerpt-->
                         <div class="card-body pb-0">
-                            <h4 class="font-weight-bold my-3">Manpro Kanban</h4>
+                            <h4 class="font-weight-bold my-3">Sistem Manajemen Proyek CV Primavisi Globalindo Surabaya</h4>
                             <p class="grey-text">Adalah sebuah sistem manajemen proyek yang mengimplementasikan metode Kanban. Dikembangkan menggunakan Codeigniter 3.1.9, Bootstrap SB-Admin-2, Javascript, Jquery, Ajax, MySql database, dan juga Google Chart.
                             </p>
-                            <a class="btn btn-purple btn-sm"><i class="fa fa-clone left"></i> View project</a>
+                            <a class="btn btn-purple btn-sm"><i class="fa fa-clone left"></i> Detil Proyek</a>
                         </div>
                     </div>
                     <!-- Grid column -->
@@ -178,18 +197,34 @@
                     <!-- Grid column -->
                     <div class="col-lg-6 col-md-6 mb-md-0 mb-4">
                         <!--Featured image-->
-                        <div class="view overlay rounded z-depth-1">
-                            <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image">
-                            <a>
+                        <div class="view overlay rounded z-depth-1" style="height: 375px; overflow-y: scroll;">
+                            <!-- <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image"> -->
+                            <div class="row mx-1">
+                              <div class="col-12 p-2">
+                                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image">
+                              </div>
+                            </div>
+                            <div class="row mx-1">
+                              <div class="col-12 p-2">
+                                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image">
+                              </div>
+                              <div class="col-12 p-2">
+                                <img src="https://mdbootstrap.com/img/Photos/Others/project4.jpg" class="img-fluid" alt="Sample project image">
+                              </div>
+                            </div>
+                            <!-- <a>
                                 <div class="mask rgba-white-slight"></div>
-                            </a>
+                            </a> -->
                         </div>
                         <!--Excerpt-->
                         <div class="card-body pb-0">
                             <h4 class="font-weight-bold my-3">Admin Page UMKM Tulungagung</h4>
                             <p class="grey-text">Adalah sebuah web dashboard untuk administrator dan juga pelapak pada area Tulungagung dan sekitarnya. Dikembangkan menggunakan Codeigniter 3.1.9, Bootstrap SB-Admin-2, Javascript, Jquery, Ajax dan MySql database.
                             </p>
-                            <a class="btn btn-purple btn-sm"><i class="fa fa-clone left"></i> View project</a>
+                            <a class="btn btn-purple btn-sm"><i class="fa fa-clone left"></i> Detil Proyek</a>
                         </div>
                     </div>
                     <!-- Grid column -->
